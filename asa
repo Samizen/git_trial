@@ -1,0 +1,23 @@
+[33mcommit 2aa13461dfe1ea66e2d3a65d30915063bcba4054[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: SamitPaudel <samitpdl@gmail.com>
+Date:   Sat Sep 4 12:30:36 2021 +0545
+
+    Mistakenly added continents to countries.txt
+
+[33mcommit 08c6f20e99fb310207c93c84e893446a0e2dcdfc[m
+Author: SamitPaudel <samitpdl@gmail.com>
+Date:   Sat Sep 4 12:28:49 2021 +0545
+
+    Changed country names again
+
+[33mcommit 865a16b7cdf75fc6014fb0304abaa012a89bea0d[m
+Author: SamitPaudel <samitpdl@gmail.com>
+Date:   Sat Sep 4 12:27:07 2021 +0545
+
+    Updated countries list
+
+[33mcommit dd6cf6d125b9bf5a8fdcb9a7c82a8143071dfcc0[m
+Author: SamitPaudel <samitpdl@gmail.com>
+Date:   Sat Sep 4 12:19:20 2021 +0545
+
+    added a floder and two files to this project
